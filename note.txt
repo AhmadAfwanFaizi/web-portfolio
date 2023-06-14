@@ -1,3 +1,5 @@
 # Project Setup
     import from https://github.com/bedimcode/responsive-portfolio-website-Alexa
 
+# Variables Css
+    menentukan variabel css dengan hsl pada dile styles.css
