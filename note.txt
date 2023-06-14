@@ -1,0 +1,3 @@
+# Project Setup
+    import from https://github.com/bedimcode/responsive-portfolio-website-Alexa
+
