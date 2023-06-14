@@ -3,3 +3,6 @@
 
 # Variables Css
     menentukan variabel css dengan hsl pada dile styles.css
+
+# Reset HTML & Reusable CSS
+    styling class dan tag pada file styles.css
